@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'test-angular-v915';
+  subtitle = "unit testing";
 }
